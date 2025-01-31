@@ -13,10 +13,11 @@
   border-radius: 8%;
 }
 
-/* .services {
+.services {
   box-shadow: #58d68d 5px 5px, #82e0aa 10px 10px, #abebc6 15px 15px,
     #d5f5e3 20px 20px, #eafaf1 25px 25px;
-} */
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+}
 
 .button-33 {
   background-color: #c2fbd7;
